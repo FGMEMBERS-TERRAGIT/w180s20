@@ -1,3 +1,11 @@
 OBJECT_SHARED Models/Airport/ndb.ac -172.016833 -13.822833 -0.01 180
 OBJECT_SHARED Models/Airport/ils.xml -172.019417 -13.829083 0 270.86
 OBJECT_SHARED Models/Communications/vordme_1.xml -172.019417 -13.829083 0 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/FireStationLg.ac -172.00715 -13.83207 14.46 90
+OBJECT_SHARED Models/lib/FireStationLg.ac -172.00715 -13.83201 14.23 90
+OBJECT_SHARED Models/lib/SmHangar.ac -172.01226 -13.83201 17.18 178.56
+OBJECT_SHARED Models/lib/MedHangar.ac -172.01239 -13.83154 16.29 358.62
+# END dsf2stg
